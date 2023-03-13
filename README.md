@@ -1,6 +1,6 @@
 # Deep-Learning-1
-Projects of &lt;Deep Learning 1> in IP-Paris
-Course of M2 Data Science done in Ecole Polytechnique
+Projects of &lt;Deep Learning 1> in IP-Paris  
+Course of M2 Data Science done in Telecom
 
 # Content
 
